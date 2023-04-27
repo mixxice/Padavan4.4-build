@@ -102,5 +102,5 @@ jobs:
       uses: actions/upload-artifact@master
       if: always()
       with:
-        name: Padavan-BELL-A-040WQ
+        name: Padavan-NEWIFI3
         path: /opt/images
