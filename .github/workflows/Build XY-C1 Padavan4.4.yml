@@ -1,4 +1,4 @@
-#修改TNAME: B70中的B70为你需要编译的型号，注意名称要与configs/templates/目录下的名字相同
+#修改TNAME: XY-C1为你需要编译的型号，注意名称要与configs/templates/目录下的名字相同
 name: Build XY-C1 Padavan4.4
 
 on:
